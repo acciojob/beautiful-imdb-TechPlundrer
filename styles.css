@@ -10,6 +10,12 @@ body {
 	margin: 40px auto 20px;
 	border-radius: 20px;
 }
+.name {
+	color: white;
+	text-align: center;
+	background-color: darkred;
+	border-radius: 20px
+}
 .movieDetail {
 	  position: relative;
             top: 10px;
